@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // push =>adds an Element in an Array
 // pop  =>removes last Element from an Array
 // concat => join two or more arrays
